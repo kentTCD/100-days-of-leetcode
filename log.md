@@ -16,3 +16,13 @@
 1. [383.Ransom Note](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day2/383-Ransom-Note.py)
 2. [412.Fizz Buzz](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day2/412-Fizz-Buzz.py)
 3. [2876.Middle of the Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day2/2876-Middle-of-the-Linked-List.py)
+
+### Day 3: Apri 12, 2022
+
+**Today's Progress**: I've solved 2 questions.
+
+**Thoughts**: I was stuck at loop by adding an element to list just used for "for". haha... And I created the automation file to add new file to my 100DaysOfLeetCode directory, so that I could spare myself boring thing.
+
+**Link(s) to work**:
+1. [1337. The K Weakest Rows in a Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day3/1337-The-K-Weakest-Rows-in-a-Matrix.py)
+2. [1342. Number of Steps to Reduce a Number to Zero](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day3/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
