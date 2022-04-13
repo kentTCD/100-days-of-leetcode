@@ -14,7 +14,7 @@ def createLinksToWork():
         name_split = file_name.split('-')
         name_split[0] = name_split[0] + '.'
         arrng_name = ' '.join(name_split).replace('.py', '')
-        url = GIT_REPO_PATH + 'blob/master/codes/' + file_name
+        url = GIT_REPO_PATH + 'blob/master/codes/Day' + str(day_num) + '/' + file_name
         links_to_work = links_to_work + '\n' + str(i) + '. ' + '[' + arrng_name + ']' + '(' + url + ')'
         i = i + 1
 
