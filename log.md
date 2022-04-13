@@ -19,10 +19,20 @@
 
 ### Day 3: Apri 12, 2022
 
-**Today's Progress**: I've solved 2 questions.
+**Today's Progress**: I've solved 2 questions.[And I created the automation file to add new file to my 100DaysOfLeetCode directory](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/add_file.py), so that I could spare myself boring thing.
 
-**Thoughts**: I was stuck at loop by adding an element to list just used for "for". haha... And I created the automation file to add new file to my 100DaysOfLeetCode directory, so that I could spare myself boring thing.
+**Thoughts**: I was stuck at loop by adding an element to list just used for "for". haha...
 
 **Link(s) to work**:
 1. [1337. The K Weakest Rows in a Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day3/1337-The-K-Weakest-Rows-in-a-Matrix.py)
 2. [1342. Number of Steps to Reduce a Number to Zero](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day3/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
+
+### Day 4: April 13, 2022
+
+**Today's Progress**: I've done 2 questions. [And I created an automation file to write a log automatically.](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/write_log.py)
+
+**Thoughts**: I learned something to do with time complexity.
+
+**Link(s) to work**:
+1. [1. Two Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/1-Two-Sum.py)
+2. [1672. Richest Customer Wealth](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/1672-Richest-Customer-Wealth.py)
