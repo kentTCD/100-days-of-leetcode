@@ -37,3 +37,12 @@
 **Link(s) to work**:
 1. [1. Two Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day4/1-Two-Sum.py)
 2. [1672. Richest Customer Wealth](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day4/1672-Richest-Customer-Wealth.py)
+
+### Day 5: April 14, 2022
+
+**Today's Progress**: I've done 1 question, and tried another question.
+
+**Thoughts**: I've been stuck at easy question, 14.Longest Common Prefix...
+
+**Link(s) to work**:
+1. [9. Palindrome Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day5/9-Palindrome-Number.py)
