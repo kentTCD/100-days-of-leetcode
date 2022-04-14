@@ -38,3 +38,6 @@ content = '\n' + date + '\n\n' + todays_progress + '\n\n' + thoughts + '\n\n' + 
 
 with open(LOG_PATH, 'a') as f:
     print(content, file=f)
+
+bar = ' ----------------- '
+print(bar + "Added Log For: " + date[4:] + bar)
