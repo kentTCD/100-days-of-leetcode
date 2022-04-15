@@ -46,3 +46,12 @@
 
 **Link(s) to work**:
 1. [9. Palindrome Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day5/9-Palindrome-Number.py)
+
+### Day 6: April 15, 2022
+
+**Today's Progress**: I did 1 question, and tried another.
+
+**Thoughts**: I've been stuck and can't understand why my code doesn't work. So I will ask someone.
+
+**Link(s) to work**:
+1. [206. Reverse Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day6/206-Reverse-Linked-List.py)
