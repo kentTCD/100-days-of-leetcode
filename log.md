@@ -55,3 +55,12 @@
 
 **Link(s) to work**:
 1. [206. Reverse Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day6/206-Reverse-Linked-List.py)
+
+### Day 7: April 16, 2022
+
+**Today's Progress**: I did 1 question.
+
+**Thoughts**: I'm confused about linked-list.
+
+**Link(s) to work**:
+1. [21. Merge Two Sorted Lists](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day7/21-Merge-Two-Sorted-Lists.py)
