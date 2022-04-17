@@ -64,3 +64,12 @@
 
 **Link(s) to work**:
 1. [21. Merge Two Sorted Lists](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day7/21-Merge-Two-Sorted-Lists.py)
+
+### Day 8: April 17, 2022
+
+**Today's Progress**: I did 1 quesiton.
+
+**Thoughts**: I was really impressd by solutions other people made, and I learnd a lot from them.
+
+**Link(s) to work**:
+1. [53. Maximum Subarray](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day8/53-Maximum-Subarray.py)
