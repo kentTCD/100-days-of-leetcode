@@ -73,3 +73,13 @@
 
 **Link(s) to work**:
 1. [53. Maximum Subarray](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day8/53-Maximum-Subarray.py)
+
+### Day 9: April 18, 2022
+
+**Today's Progress**: I did 2 questions.
+
+**Thoughts**: I felt soooo comfortable when I finally solved a question with a few codes.
+
+**Link(s) to work**:
+1. [121. Best Time to Buy and Sell Stock](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day9/121-Best-Time-to-Buy-and-Sell-Stock.py)
+2. [70. Climbing Stairs](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day9/70-Climbing-Stairs.py)
