@@ -7,7 +7,7 @@ LOG_PATH = 'log.md'
 GIT_REPO_PATH = 'https://github.com/tsuchi-ken/100-days-of-leetcode/'
 
 def createLinksToWork():
-    added_files = os.listdir(CODES_DIR + 'Day' + str(day_num))
+    added_files = sorted(os.listdir(CODES_DIR + 'Day' + str(day_num)))
     i = 1
     links_to_work = '**Link(s) to work**:'
     for file_name in added_files:
