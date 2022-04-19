@@ -86,13 +86,13 @@
 
 ### Day 10: April 19, 2022
 
-**Today's Progress**: 
+**Today's Progress**: I did 5 questions.
 
-**Thoughts**: 
+**Thoughts**: I checked a solution made by others each question, and that was helpful to think from some other point of views.
 
 **Link(s) to work**:
 1. [136. Single Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/136-Single-Number.py)
-2. [155. Min Stack~](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/155-Min-Stack~.py)
+2. [155. Min Stack](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/155-Min-Stack.py)
 3. [169. Majority Element](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/169-Majority-Element.py)
 4. [283. Move Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/283-Move-Zeroes.py)
 5. [338. Counting Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/338-Counting-Bits.py)
