@@ -83,3 +83,16 @@
 **Link(s) to work**:
 1. [121. Best Time to Buy and Sell Stock](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day9/121-Best-Time-to-Buy-and-Sell-Stock.py)
 2. [70. Climbing Stairs](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day9/70-Climbing-Stairs.py)
+
+### Day 10: April 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1. [136. Single Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/136-Single-Number.py)
+2. [155. Min Stack~](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/155-Min-Stack~.py)
+3. [169. Majority Element](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/169-Majority-Element.py)
+4. [283. Move Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/283-Move-Zeroes.py)
+5. [338. Counting Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/338-Counting-Bits.py)
