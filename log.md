@@ -101,7 +101,7 @@
 
 **Today's Progress**: I did 2 questions.
 
-**Thoughts**: I learnd that SET function in Python causes a list to sort nums in it at rondam.
+**Thoughts**: I learnd that SET function in Python causes a list to sort nums in it at random.
 
 **Link(s) to work**:
 1. [20. Valid Parentheses](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day11/20-Valid-Parentheses.py)
