@@ -96,3 +96,13 @@
 3. [169. Majority Element](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/169-Majority-Element.py)
 4. [283. Move Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/283-Move-Zeroes.py)
 5. [338. Counting Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day10/338-Counting-Bits.py)
+
+### Day 11: April 20, 2022
+
+**Today's Progress**: I did 2 questions.
+
+**Thoughts**: I learnd that SET function in Python causes a list to sort nums in it at rondam.
+
+**Link(s) to work**:
+1. [20. Valid Parentheses](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day11/20-Valid-Parentheses.py)
+2. [26. Remove Duplicates from Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day11/26-Remove-Duplicates-from-Sorted-Array.py)
