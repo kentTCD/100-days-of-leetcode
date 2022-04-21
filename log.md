@@ -106,3 +106,12 @@
 **Link(s) to work**:
 1. [20. Valid Parentheses](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day11/20-Valid-Parentheses.py)
 2. [26. Remove Duplicates from Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day11/26-Remove-Duplicates-from-Sorted-Array.py)
+
+### Day 12: April 21, 2022
+
+**Today's Progress**: I did 1 question.
+
+**Thoughts**: I learned about binary search for the first time.
+
+**Link(s) to work**:
+1. [35. Search Insert Position](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day12/35-Search-Insert-Position.py)
