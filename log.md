@@ -115,3 +115,13 @@
 
 **Link(s) to work**:
 1. [35. Search Insert Position](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day12/35-Search-Insert-Position.py)
+
+### Day 13: April 22, 2022
+
+**Today's Progress**: I did 2 medium questions.
+
+**Thoughts**: I found it fun to create O(n) programm instead of O(n^2).
+
+**Link(s) to work**:
+1. [11. Container With Most Water](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day13/11-Container-With-Most-Water.py)
+2. [22. Generate Parentheses](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day13/22-Generate-Parentheses.py)
