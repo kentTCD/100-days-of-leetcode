@@ -125,3 +125,12 @@
 **Link(s) to work**:
 1. [11. Container With Most Water](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day13/11-Container-With-Most-Water.py)
 2. [22. Generate Parentheses](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day13/22-Generate-Parentheses.py)
+
+### Day 14: April 23, 2022
+
+**Today's Progress**: I did 1 question.
+
+**Thoughts**: I learned about Depth First Search for the first time. It's interesting.
+
+**Link(s) to work**:
+1. [39. Combination Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day14/39-Combination-Sum.py)
