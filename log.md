@@ -134,3 +134,12 @@
 
 **Link(s) to work**:
 1. [39. Combination Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day14/39-Combination-Sum.py)
+
+### Day 15: April 24, 2022
+
+**Today's Progress**: I did 1 question.
+
+**Thoughts**: I could have used the idea of DepthFirstSearch that I learned yesterday.
+
+**Link(s) to work**:
+1. [46. Permutations](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day15/46-Permutations.py)
