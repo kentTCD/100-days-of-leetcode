@@ -143,3 +143,13 @@
 
 **Link(s) to work**:
 1. [46. Permutations](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day15/46-Permutations.py)
+
+### Day 16: April 25, 2022
+
+**Today's Progress**: I did 2 questions.
+
+**Thoughts**: I learned waht I should be careful of when I change a list that used for "FOR block" in Python.
+
+**Link(s) to work**:
+1. [17. Letter Combinations of a Phone Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day16/17-Letter-Combinations-of-a-Phone-Number.py)
+2. [48. Rotate Image](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day16/48-Rotate-Image.py)
