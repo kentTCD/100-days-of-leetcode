@@ -31,7 +31,7 @@ today = datetime.now() if not yesterday_flag else datetime.now()- timedelta(1)
 
 date = '### Day ' + str(day_num) + ': ' + today.strftime('%B') + ' ' + str(today.day) + ', ' + str(today.year)
 num_of_questions = sum(os.path.isdir(CODES_DIR) for tmp in os.listdir(CODES_DIR + 'Day' + str(day_num)))
-question = 'question' if num_of_questions == 1 else 'questions'
+question = 'problem' if num_of_questions == 1 else 'problems'
 todays_progress = "**Today's Progress**: I did " + str(num_of_questions) + " " + question + "."
 thoughts = "**Thoughts**: "
 links_to_work = createLinksToWork()

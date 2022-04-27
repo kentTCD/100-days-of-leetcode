@@ -162,3 +162,15 @@
 
 **Link(s) to work**:
 1. [49. Group Anagrams](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day17/49-Group-Anagrams.py)
+
+### Day 18: April 27, 2022
+
+**Today's Progress**: I did 4 problems.
+
+**Thoughts**: I've started a study plan named Programming Slills on LeetCode.
+
+**Link(s) to work**:
+1. [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
+2. [1523. Count Odd Numbers in an Interval Range](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/1523-Count-Odd-Numbers-in-an-Interval-Range.py)
+3. [62. Unique Paths](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/62-Unique-Paths.py)
+4. [78. Subsets](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/78-Subsets.py)
