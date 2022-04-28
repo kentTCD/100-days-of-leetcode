@@ -174,3 +174,13 @@
 2. [1523. Count Odd Numbers in an Interval Range](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/1523-Count-Odd-Numbers-in-an-Interval-Range.py)
 3. [62. Unique Paths](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/62-Unique-Paths.py)
 4. [78. Subsets](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/78-Subsets.py)
+
+### Day 19: April 28, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I have litte time to study but I did.
+
+**Link(s) to work**:
+1. [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day19/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py)
+2. [191. Number of 1 Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day19/191-Number-of-1-Bits.py)
