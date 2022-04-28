@@ -179,7 +179,7 @@
 
 **Today's Progress**: I did 2 problems.
 
-**Thoughts**: I have litte time to study but I did.
+**Thoughts**: I had little time to study but I did.
 
 **Link(s) to work**:
 1. [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day19/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py)
