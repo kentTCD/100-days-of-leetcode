@@ -184,3 +184,14 @@
 **Link(s) to work**:
 1. [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day19/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py)
 2. [191. Number of 1 Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day19/191-Number-of-1-Bits.py)
+
+### Day 20: April 29, 2022
+
+**Today's Progress**: I did 3 problems.
+
+**Thoughts**: They are not real efforts.
+
+**Link(s) to work**:
+1. [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
+2. [67. Add Binary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/67-Add-Binary.py)
+3. [976. Largest Perimeter Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/976-Largest-Perimeter-Triangle.py)
