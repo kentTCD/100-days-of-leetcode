@@ -195,3 +195,15 @@
 1. [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
 2. [67. Add Binary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/67-Add-Binary.py)
 3. [976. Largest Perimeter Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day20/976-Largest-Perimeter-Triangle.py)
+
+### Day 21: April 30, 2022
+
+**Today's Progress**: I did 4 problems.
+
+**Thoughts**: I was glad to see a solution much easier to understand than mine. The discussion part of LeetCode is really helpful.
+
+**Link(s) to work**:
+1. [1502. Can Make Arithmetic Progression From Sequence](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
+2. [1790. Check if One String Swap Can Make Strings Equal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
+3. [1822. Sign of the Product of an Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/1822-Sign-of-the-Product-of-an-Array.py)
+4. [202. Happy Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/202-Happy-Number.py)
