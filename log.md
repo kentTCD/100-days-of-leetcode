@@ -207,3 +207,14 @@
 2. [1790. Check if One String Swap Can Make Strings Equal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 3. [1822. Sign of the Product of an Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/1822-Sign-of-the-Product-of-an-Array.py)
 4. [202. Happy Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day21/202-Happy-Number.py)
+
+### Day 22: May 1, 2022
+
+**Today's Progress**: I did 3 problems.
+
+**Thoughts**: I learnd about BreadthFirstSearch for the first time.
+
+**Link(s) to work**:
+1. [1232. Check If It Is a Straight Line](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/1232-Check-If-It-Is-a-Straight-Line.py)
+2. [496. Next Greater Element I](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/496-Next-Greater-Element-I.py)
+3. [589. N ary Tree Preorder Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/589-N-ary-Tree-Preorder-Traversal.py)
