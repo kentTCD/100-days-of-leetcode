@@ -223,7 +223,7 @@
 
 **Today's Progress**: I did 2 problems.
 
-**Thoughts**: I learned about DP.
+**Thoughts**: I learned about DP. But it was quite difficult.
 
 **Link(s) to work**:
 1. [1588. Sum of All Odd Length Subarrays](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day23/1588-Sum-of-All-Odd-Length-Subarrays.py)
