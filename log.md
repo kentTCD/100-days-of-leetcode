@@ -212,9 +212,19 @@
 
 **Today's Progress**: I did 3 problems.
 
-**Thoughts**: I learnd about BreadthFirstSearch for the first time.
+**Thoughts**: I learned about BreadthFirstSearch for the first time.
 
 **Link(s) to work**:
 1. [1232. Check If It Is a Straight Line](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/1232-Check-If-It-Is-a-Straight-Line.py)
 2. [496. Next Greater Element I](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/496-Next-Greater-Element-I.py)
 3. [589. N ary Tree Preorder Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day22/589-N-ary-Tree-Preorder-Traversal.py)
+
+### Day 23: May 2, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I learned about DP.
+
+**Link(s) to work**:
+1. [1588. Sum of All Odd Length Subarrays](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day23/1588-Sum-of-All-Odd-Length-Subarrays.py)
+2. [215. Kth Largest Element in an Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day23/215-Kth-Largest-Element-in-an-Array.py)
