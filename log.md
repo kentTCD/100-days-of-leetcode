@@ -228,3 +228,13 @@
 **Link(s) to work**:
 1. [1588. Sum of All Odd Length Subarrays](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day23/1588-Sum-of-All-Odd-Length-Subarrays.py)
 2. [215. Kth Largest Element in an Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day23/215-Kth-Largest-Element-in-an-Array.py)
+
+### Day 24: May 3, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I had little time but I managed to do it.
+
+**Link(s) to work**:
+1. [1572. Matrix Diagonal Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day24/1572-Matrix-Diagonal-Sum.py)
+2. [566. Reshape the Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day24/566-Reshape-the-Matrix.py)
