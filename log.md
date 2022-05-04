@@ -238,3 +238,14 @@
 **Link(s) to work**:
 1. [1572. Matrix Diagonal Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day24/1572-Matrix-Diagonal-Sum.py)
 2. [566. Reshape the Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day24/566-Reshape-the-Matrix.py)
+
+### Day 25: May 4, 2022
+
+**Today's Progress**: I did 3 problems.
+
+**Thoughts**: The problem I tried was quite difficult and couldn't solve it so far. I'll try it again tommorrow.
+
+**Link(s) to work**:
+1. [1678. Goal Parser Interpretation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/1678-Goal-Parser-Interpretation.py)
+2. [1768. Merge Strings Alternately](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/1768-Merge-Strings-Alternately.py)
+3. [389. Find the Difference](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/389-Find-the-Difference.py)
