@@ -249,3 +249,14 @@
 1. [1678. Goal Parser Interpretation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/1678-Goal-Parser-Interpretation.py)
 2. [1768. Merge Strings Alternately](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/1768-Merge-Strings-Alternately.py)
 3. [389. Find the Difference](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day25/389-Find-the-Difference.py)
+
+### Day 26: May 5, 2022
+
+**Today's Progress**: I did 3 problems.
+
+**Thoughts**: I learned about key in sorted function in python, and I was glad to know how python can be useful.
+
+**Link(s) to work**:
+1. [1309. Decrypt String from Alphabet to Integer Mapping](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/1309-Decrypt-String-from-Alphabet-to-Integer-Mapping.py)
+2. [709. To Lower Case](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/709-To-Lower-Case.py)
+3. [953. Verifying an Alien Dictionary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/953-Verifying-an-Alien-Dictionary.py)
