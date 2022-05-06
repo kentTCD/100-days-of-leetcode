@@ -260,3 +260,14 @@
 1. [1309. Decrypt String from Alphabet to Integer Mapping](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/1309-Decrypt-String-from-Alphabet-to-Integer-Mapping.py)
 2. [709. To Lower Case](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/709-To-Lower-Case.py)
 3. [953. Verifying an Alien Dictionary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day26/953-Verifying-an-Alien-Dictionary.py)
+
+### Day 27: May 6, 2022
+
+**Today's Progress**: I did 3 problems.
+
+**Thoughts**: I tried problems about binary-tree that I have trouble solving, but I got quite used to it today.
+
+**Link(s) to work**:
+1. [104. Maximum Depth of Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/104-Maximum-Depth-of-Binary-Tree.py)
+2. [1290. Convert Binary Number in a Linked List to Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer.py)
+3. [404. Sum of Left Leaves](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/404-Sum-of-Left-Leaves.py)
