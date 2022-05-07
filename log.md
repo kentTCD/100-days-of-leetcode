@@ -271,3 +271,15 @@
 1. [104. Maximum Depth of Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/104-Maximum-Depth-of-Binary-Tree.py)
 2. [1290. Convert Binary Number in a Linked List to Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer.py)
 3. [404. Sum of Left Leaves](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day27/404-Sum-of-Left-Leaves.py)
+
+### Day 28: May 7, 2022
+
+**Today's Progress**: I did 4 problems.
+
+**Thoughts**: These days, I feel that my LeetCode experiences make my job a little bit easier.
+
+**Link(s) to work**:
+1. [1356. Sort Integers by The Number of 1 Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/1356-Sort-Integers-by-The-Number-of-1-Bits.py)
+2. [217. Contains Duplicate](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/217-Contains-Duplicate.py)
+3. [232. Implement Queue using Stacks](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/232-Implement-Queue-using-Stacks.py)
+4. [242. Valid Anagram](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/242-Valid-Anagram.py)
