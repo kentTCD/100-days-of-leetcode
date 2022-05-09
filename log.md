@@ -293,3 +293,13 @@
 **Link(s) to work**:
 1. [1603. Design Parking System](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day29/1603-Design-Parking-System.py)
 2. [303. Range Sum Query   Immutable](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day29/303-Range-Sum-Query---Immutable.py)
+
+### Day 30: May 9, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I started the study plan in LeetCode named Programming Skills 2. I am looking forward to struggling with some problems that make me a real developer.
+
+**Link(s) to work**:
+1. [28. Implement strStr()](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day30/28-Implement-strStr().py)
+2. [896. Monotonic Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day30/896-Monotonic-Array.py)
