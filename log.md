@@ -283,3 +283,13 @@
 2. [217. Contains Duplicate](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/217-Contains-Duplicate.py)
 3. [232. Implement Queue using Stacks](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/232-Implement-Queue-using-Stacks.py)
 4. [242. Valid Anagram](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day28/242-Valid-Anagram.py)
+
+### Day 29: May 8, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I completed the study plan in LeetCode named Programming Skills 1. That was kind of easy, so I want to go to the next level.
+
+**Link(s) to work**:
+1. [1603. Design Parking System](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day29/1603-Design-Parking-System.py)
+2. [303. Range Sum Query   Immutable](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day29/303-Range-Sum-Query---Immutable.py)
