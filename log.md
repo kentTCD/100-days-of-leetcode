@@ -303,3 +303,13 @@
 **Link(s) to work**:
 1. [28. Implement strStr()](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day30/28-Implement-strStr().py)
 2. [896. Monotonic Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day30/896-Monotonic-Array.py)
+
+### Day 31: May 10, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I was stuck at Time Limit Exceeded. But I reconsidered what caused some waste of time in my code, then I eventually got it. It was very satisfying!!
+
+**Link(s) to work**:
+1. [110. Balanced Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day31/110-Balanced-Binary-Tree.py)
+2. [459. Repeated Substring Pattern](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day31/459-Repeated-Substring-Pattern.py)
