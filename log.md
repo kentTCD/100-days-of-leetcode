@@ -313,3 +313,13 @@
 **Link(s) to work**:
 1. [110. Balanced Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day31/110-Balanced-Binary-Tree.py)
 2. [459. Repeated Substring Pattern](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day31/459-Repeated-Substring-Pattern.py)
+
+### Day 32: May 11, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I was struggling with just one problme for almost 1 hour, then I saw discussion part and was shocked by simple and clean solution someone made. I have to learn more.
+
+**Link(s) to work**:
+1. [150. Evaluate Reverse Polish Notation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day32/150-Evaluate-Reverse-Polish-Notation.py)
+2. [66. Plus One](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day32/66-Plus-One.py)
