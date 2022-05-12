@@ -323,3 +323,12 @@
 **Link(s) to work**:
 1. [150. Evaluate Reverse Polish Notation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day32/150-Evaluate-Reverse-Polish-Notation.py)
 2. [66. Plus One](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day32/66-Plus-One.py)
+
+### Day 33: May 12, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Medium level problems are quite difficult so far.
+
+**Link(s) to work**:
+1. [1367. Linked List in Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day33/1367-Linked-List-in-Binary-Tree.py)
