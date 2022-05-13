@@ -332,3 +332,13 @@
 
 **Link(s) to work**:
 1. [1367. Linked List in Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day33/1367-Linked-List-in-Binary-Tree.py)
+
+### Day 34: May 13, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: Everytime I think my solution is the best, other one is better.
+
+**Link(s) to work**:
+1. [43. Multiply Strings](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day34/43-Multiply-Strings.py)
+2. [989. Add to Array Form of Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day34/989-Add-to-Array-Form-of-Integer.py)
