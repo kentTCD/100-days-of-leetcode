@@ -342,3 +342,12 @@
 **Link(s) to work**:
 1. [43. Multiply Strings](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day34/43-Multiply-Strings.py)
 2. [989. Add to Array Form of Integer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day34/989-Add-to-Array-Form-of-Integer.py)
+
+### Day 35: May 14, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about stack for the first time.
+
+**Link(s) to work**:
+1. [739. Daily Temperatures](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day35/739-Daily-Temperatures.py)
