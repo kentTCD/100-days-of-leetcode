@@ -351,3 +351,13 @@
 
 **Link(s) to work**:
 1. [739. Daily Temperatures](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day35/739-Daily-Temperatures.py)
+
+### Day 36: May 16, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: If I break down a problem that seems difficult, I can solve it.
+
+**Link(s) to work**:
+1. [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day36/1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation.py)
+2. [58. Length of Last Word](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day36/58-Length-of-Last-Word.py)
