@@ -361,3 +361,12 @@
 **Link(s) to work**:
 1. [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day36/1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation.py)
 2. [58. Length of Last Word](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day36/58-Length-of-Last-Word.py)
+
+### Day 37: May 17, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: It's important to restart when you're stuck at one issue.
+
+**Link(s) to work**:
+1. [54. Spiral Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day37/54-Spiral-Matrix.py)
