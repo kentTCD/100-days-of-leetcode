@@ -370,3 +370,13 @@
 
 **Link(s) to work**:
 1. [54. Spiral Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day37/54-Spiral-Matrix.py)
+
+### Day 38: May 18, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I was glad to find some solution I've benn looking for in discuss session.
+
+**Link(s) to work**:
+1. [1630. Arithmetic Subarrays](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day38/1630-Arithmetic-Subarrays.py)
+2. [973. K Closest Points to Origin](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day38/973-K-Closest-Points-to-Origin.py)
