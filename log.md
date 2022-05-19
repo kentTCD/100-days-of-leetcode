@@ -380,3 +380,13 @@
 **Link(s) to work**:
 1. [1630. Arithmetic Subarrays](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day38/1630-Arithmetic-Subarrays.py)
 2. [973. K Closest Points to Origin](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day38/973-K-Closest-Points-to-Origin.py)
+
+### Day 39: May 19, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I learned that I can take advantage of stack when I don't want time complexity become O(n^2) but I can't sort a given list.
+
+**Link(s) to work**:
+1. [429. N ary Tree Level Order Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day39/429-N-ary-Tree-Level-Order-Traversal.py)
+2. [503. Next Greater Element II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day39/503-Next-Greater-Element-II.py)
