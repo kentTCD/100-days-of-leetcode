@@ -390,3 +390,12 @@
 **Link(s) to work**:
 1. [429. N ary Tree Level Order Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day39/429-N-ary-Tree-Level-Order-Traversal.py)
 2. [503. Next Greater Element II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day39/503-Next-Greater-Element-II.py)
+
+### Day 40: May 20, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I struggled with some problems.
+
+**Link(s) to work**:
+1. [1376. Time Needed to Inform All Employees](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day40/1376-Time-Needed-to-Inform-All-Employees.py)
