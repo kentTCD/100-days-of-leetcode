@@ -399,3 +399,12 @@
 
 **Link(s) to work**:
 1. [1376. Time Needed to Inform All Employees](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day40/1376-Time-Needed-to-Inform-All-Employees.py)
+
+### Day 41: May 21, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned that what I have to consider in terms of TimeComplexity is not only O() but also a function I use.
+
+**Link(s) to work**:
+1. [438. Find All Anagrams in a String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day41/438-Find-All-Anagrams-in-a-String.py)
