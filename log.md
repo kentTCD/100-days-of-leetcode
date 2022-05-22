@@ -167,7 +167,7 @@
 
 **Today's Progress**: I did 4 problems.
 
-**Thoughts**: I've started a study plan named Programming Slills on LeetCode.
+**Thoughts**: I've started a study plan named Programming Skills on LeetCode.
 
 **Link(s) to work**:
 1. [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day18/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
@@ -408,3 +408,12 @@
 
 **Link(s) to work**:
 1. [438. Find All Anagrams in a String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day41/438-Find-All-Anagrams-in-a-String.py)
+
+### Day 42: May 22, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about Slinding Window algorithm and I thought medium level required caring about Time Complexity.
+
+**Link(s) to work**:
+1. [713. Subarray Product Less Than K](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day42/713-Subarray-Product-Less-Than-K.py)
