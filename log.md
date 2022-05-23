@@ -417,3 +417,12 @@
 
 **Link(s) to work**:
 1. [713. Subarray Product Less Than K](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day42/713-Subarray-Product-Less-Than-K.py)
+
+### Day 43: May 23, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about Prefix Sum algorithm for the first time.
+
+**Link(s) to work**:
+1. [304. Range Sum Query 2D   Immutable](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day43/304-Range-Sum-Query-2D---Immutable.py)
