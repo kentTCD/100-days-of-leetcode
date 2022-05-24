@@ -426,3 +426,13 @@
 
 **Link(s) to work**:
 1. [304. Range Sum Query 2D   Immutable](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day43/304-Range-Sum-Query-2D---Immutable.py)
+
+### Day 44: May 24, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I want to learn about algorithms systematically.
+
+**Link(s) to work**:
+1. [143. Reorder List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day44/143-Reorder-List.py)
+2. [910. Smallest Range II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day44/910-Smallest-Range-II.py)
