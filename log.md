@@ -436,3 +436,12 @@
 **Link(s) to work**:
 1. [143. Reorder List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day44/143-Reorder-List.py)
 2. [910. Smallest Range II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day44/910-Smallest-Range-II.py)
+
+### Day 45: May 25, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about Hash Map.
+
+**Link(s) to work**:
+1. [138. Copy List with Random Pointer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day45/138-Copy-List-with-Random-Pointer.py)
