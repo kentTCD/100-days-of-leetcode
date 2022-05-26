@@ -445,3 +445,12 @@
 
 **Link(s) to work**:
 1. [138. Copy List with Random Pointer](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day45/138-Copy-List-with-Random-Pointer.py)
+
+### Day 46: May 26, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I struggled with one problem and fainally I solved it.
+
+**Link(s) to work**:
+1. [556. Next Greater Element III](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day46/556-Next-Greater-Element-III.py)
