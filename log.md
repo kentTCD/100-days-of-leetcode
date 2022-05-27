@@ -454,3 +454,13 @@
 
 **Link(s) to work**:
 1. [556. Next Greater Element III](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day46/556-Next-Greater-Element-III.py)
+
+### Day 47: May 27, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: It's surprising that I am used to liked-lists which I struggled in first week.
+
+**Link(s) to work**:
+1. [2. Add Two Numbers](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day47/2-Add-Two-Numbers.py)
+2. [445. Add Two Numbers II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day47/445-Add-Two-Numbers-II.py)
