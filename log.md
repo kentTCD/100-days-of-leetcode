@@ -464,3 +464,12 @@
 **Link(s) to work**:
 1. [2. Add Two Numbers](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day47/2-Add-Two-Numbers.py)
 2. [445. Add Two Numbers II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day47/445-Add-Two-Numbers-II.py)
+
+### Day 48: May 28, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I posted my solution on discuss section with some explanation.
+
+**Link(s) to work**:
+1. [61. Rotate List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day48/61-Rotate-List.py)
