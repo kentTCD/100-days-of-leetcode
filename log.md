@@ -473,3 +473,13 @@
 
 **Link(s) to work**:
 1. [61. Rotate List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day48/61-Rotate-List.py)
+
+### Day 49: May 29, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I leaernd about in-order traversal of binary tree.
+
+**Link(s) to work**:
+1. [141. Linked List Cycle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day49/141-Linked-List-Cycle.py)
+2. [94. Binary Tree Inorder Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day49/94-Binary-Tree-Inorder-Traversal.py)
