@@ -483,3 +483,12 @@
 **Link(s) to work**:
 1. [141. Linked List Cycle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day49/141-Linked-List-Cycle.py)
 2. [94. Binary Tree Inorder Traversal](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day49/94-Binary-Tree-Inorder-Traversal.py)
+
+### Day 50: May 30, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned that iterator is different from list, and was surprised because I've been using these without awaring of that.
+
+**Link(s) to work**:
+1. [101. Symmetric Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day50/101-Symmetric-Tree.py)
