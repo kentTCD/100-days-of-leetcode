@@ -492,3 +492,13 @@
 
 **Link(s) to work**:
 1. [101. Symmetric Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day50/101-Symmetric-Tree.py)
+
+### Day 51: May 31, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I feel easy problems easier than I thought 50 days ago.
+
+**Link(s) to work**:
+1. [226. Invert Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day51/226-Invert-Binary-Tree.py)
+2. [27. Remove Element](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day51/27-Remove-Element.py)
