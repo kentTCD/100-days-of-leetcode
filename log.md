@@ -502,3 +502,13 @@
 **Link(s) to work**:
 1. [226. Invert Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day51/226-Invert-Binary-Tree.py)
 2. [27. Remove Element](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day51/27-Remove-Element.py)
+
+### Day 52: June 1, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I was impressed at very simple solution someone created.
+
+**Link(s) to work**:
+1. [160. Intersection of Two Linked Lists](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day52/160-Intersection-of-Two-Linked-Lists.py)
+2. [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day52/2160-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.py)
