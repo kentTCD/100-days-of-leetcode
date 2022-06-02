@@ -512,3 +512,12 @@
 **Link(s) to work**:
 1. [160. Intersection of Two Linked Lists](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day52/160-Intersection-of-Two-Linked-Lists.py)
 2. [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day52/2160-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.py)
+
+### Day 53: June 2, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I spent much longer time struggling with one problem but I felt satisfied to solve it!
+
+**Link(s) to work**:
+1. [15. 3Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day53/15-3Sum.py)
