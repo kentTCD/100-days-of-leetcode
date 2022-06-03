@@ -521,3 +521,12 @@
 
 **Link(s) to work**:
 1. [15. 3Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day53/15-3Sum.py)
+
+### Day 54: June 3, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I feel somewhat comfortable when I come up with a solution different from any others.
+
+**Link(s) to work**:
+1. [34. Find First and Last Position of Element in Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day54/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
