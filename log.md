@@ -530,3 +530,12 @@
 
 **Link(s) to work**:
 1. [34. Find First and Last Position of Element in Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day54/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
+
+### Day 55: June 4, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I had little time to do but I managed.
+
+**Link(s) to work**:
+1. [83. Remove Duplicates from Sorted List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day55/83-Remove-Duplicates-from-Sorted-List.py)
