@@ -539,3 +539,13 @@
 
 **Link(s) to work**:
 1. [83. Remove Duplicates from Sorted List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day55/83-Remove-Duplicates-from-Sorted-List.py)
+
+### Day 56: June 5, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I can feel easier about the problem that I avoided to tackle 40 days ago.
+
+**Link(s) to work**:
+1. [118. Pascal's Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day56/118-Pascal's-Triangle.py)
+2. [88. Merge Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day56/88-Merge-Sorted-Array.py)
