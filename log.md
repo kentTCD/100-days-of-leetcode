@@ -549,3 +549,13 @@
 **Link(s) to work**:
 1. [118. Pascal's Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day56/118-Pascal's-Triangle.py)
 2. [88. Merge Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day56/88-Merge-Sorted-Array.py)
+
+### Day 57: June 6, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: Sometimes I find a problem about linked-list confusing.
+
+**Link(s) to work**:
+1. [108. Convert Sorted Array to Binary Search Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day57/108-Convert-Sorted-Array-to-Binary-Search-Tree.py)
+2. [171. Excel Sheet Column Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day57/171-Excel-Sheet-Column-Number.py)
