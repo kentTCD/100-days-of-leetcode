@@ -559,3 +559,13 @@
 **Link(s) to work**:
 1. [108. Convert Sorted Array to Binary Search Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day57/108-Convert-Sorted-Array-to-Binary-Search-Tree.py)
 2. [171. Excel Sheet Column Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day57/171-Excel-Sheet-Column-Number.py)
+
+### Day 58: June 7, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: There was littel time but I did a little bit.
+
+**Link(s) to work**:
+1. [237. Delete Node in a Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day58/237-Delete-Node-in-a-Linked-List.py)
+2. [268. Missing Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day58/268-Missing-Number.py)
