@@ -569,3 +569,12 @@
 **Link(s) to work**:
 1. [237. Delete Node in a Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day58/237-Delete-Node-in-a-Linked-List.py)
 2. [268. Missing Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day58/268-Missing-Number.py)
+
+### Day 59: June 8, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about DP again. I want to know how to use it properly.
+
+**Link(s) to work**:
+1. [1143. Longest Common Subsequence](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day59/1143-Longest-Common-Subsequence.py)
