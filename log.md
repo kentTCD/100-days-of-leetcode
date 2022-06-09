@@ -578,3 +578,12 @@
 
 **Link(s) to work**:
 1. [1143. Longest Common Subsequence](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day59/1143-Longest-Common-Subsequence.py)
+
+### Day 60: June 9, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Recently I often fail to solve a problem because I have little time and tend to pick some solutions someone made and just learn from them.
+
+**Link(s) to work**:
+1. [341. Flatten Nested List Iterator](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day60/341-Flatten-Nested-List-Iterator.py)
