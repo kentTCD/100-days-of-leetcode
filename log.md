@@ -587,3 +587,12 @@
 
 **Link(s) to work**:
 1. [341. Flatten Nested List Iterator](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day60/341-Flatten-Nested-List-Iterator.py)
+
+### Day 61: June 10, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I posted my code on discuss section because I won 99% less memory in a little bit different way.
+
+**Link(s) to work**:
+1. [1845. Seat Reservation Manager](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day61/1845-Seat-Reservation-Manager.py)
