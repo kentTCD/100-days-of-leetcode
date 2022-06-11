@@ -596,3 +596,12 @@
 
 **Link(s) to work**:
 1. [1845. Seat Reservation Manager](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day61/1845-Seat-Reservation-Manager.py)
+
+### Day 62: June 11, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I was a little reluctant to do LeetCode but I did because it was my routine.
+
+**Link(s) to work**:
+1. [860. Lemonade Change](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day62/860-Lemonade-Change.py)
