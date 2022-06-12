@@ -1,4 +1,4 @@
-import json, config, re, os
+import config, re, os
 from requests_oauthlib import OAuth1Session
 
 API_KEY = config.TWITTER_API['API_KEY']
