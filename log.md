@@ -605,3 +605,12 @@
 
 **Link(s) to work**:
 1. [860. Lemonade Change](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day62/860-Lemonade-Change.py)
+
+### Day 63: June 12, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I'm glad to get able to use hashmap on my own.
+
+**Link(s) to work**:
+1. [1797. Design Authentication Manager](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day63/1797-Design-Authentication-Manager.py)
