@@ -623,3 +623,12 @@
 
 **Link(s) to work**:
 1. [173. Binary Search Tree Iterator](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day64/173-Binary-Search-Tree-Iterator.py)
+
+### Day 65: June 14, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Mostly brute-force is imcompetent but easy.
+
+**Link(s) to work**:
+1. [729. My Calendar I](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day65/729-My-Calendar-I.py)
