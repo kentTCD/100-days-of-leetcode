@@ -632,3 +632,12 @@
 
 **Link(s) to work**:
 1. [729. My Calendar I](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day65/729-My-Calendar-I.py)
+
+### Day 66: June 15, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned that I should consider if some variable is 0 or not when I use it like "if variable: ----".
+
+**Link(s) to work**:
+1. [380. Insert Delete GetRandom O(1)](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day66/380-Insert-Delete-GetRandom-O(1).py)
