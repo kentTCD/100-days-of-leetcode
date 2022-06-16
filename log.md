@@ -641,3 +641,12 @@
 
 **Link(s) to work**:
 1. [380. Insert Delete GetRandom O(1)](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day66/380-Insert-Delete-GetRandom-O(1).py)
+
+### Day 67: June 16, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about circular queue that is space-friendly.
+
+**Link(s) to work**:
+1. [622. Design Circular Queue](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day67/622-Design-Circular-Queue.py)
