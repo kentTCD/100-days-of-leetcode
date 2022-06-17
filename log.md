@@ -650,3 +650,12 @@
 
 **Link(s) to work**:
 1. [622. Design Circular Queue](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day67/622-Design-Circular-Queue.py)
+
+### Day 68: June 17, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I'm done with study plan called Programming Skills Two.
+
+**Link(s) to work**:
+1. [707. Design Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day68/707-Design-Linked-List.py)
