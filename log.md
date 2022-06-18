@@ -659,3 +659,12 @@
 
 **Link(s) to work**:
 1. [707. Design Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day68/707-Design-Linked-List.py)
+
+### Day 69: June 18, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I started new study plan called Algorithm one.
+
+**Link(s) to work**:
+1. [704. Binary Search](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day69/704-Binary-Search.py)
