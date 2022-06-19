@@ -668,3 +668,13 @@
 
 **Link(s) to work**:
 1. [704. Binary Search](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day69/704-Binary-Search.py)
+
+### Day 70: June 19, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I feel sometimes tired but I manage to do it.
+
+**Link(s) to work**:
+1. [189. Rotate Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day70/189-Rotate-Array.py)
+2. [977. Squares of a Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day70/977-Squares-of-a-Sorted-Array.py)
