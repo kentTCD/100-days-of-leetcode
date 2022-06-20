@@ -678,3 +678,13 @@
 **Link(s) to work**:
 1. [189. Rotate Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day70/189-Rotate-Array.py)
 2. [977. Squares of a Sorted Array](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day70/977-Squares-of-a-Sorted-Array.py)
+
+### Day 71: June 20, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I learned about two pointers firmly that I had felt I had known but not.
+
+**Link(s) to work**:
+1. [167. Two Sum II   Input Array Is Sorted](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day71/167-Two-Sum-II---Input-Array-Is-Sorted.py)
+2. [283. Move Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day71/283-Move-Zeroes.py)
