@@ -688,3 +688,13 @@
 **Link(s) to work**:
 1. [167. Two Sum II   Input Array Is Sorted](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day71/167-Two-Sum-II---Input-Array-Is-Sorted.py)
 2. [283. Move Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day71/283-Move-Zeroes.py)
+
+### Day 72: June 21, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I had little time but I managed to do it.
+
+**Link(s) to work**:
+1. [344. Reverse String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day72/344-Reverse-String.py)
+2. [557. Reverse Words in a String III](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day72/557-Reverse-Words-in-a-String-III.py)
