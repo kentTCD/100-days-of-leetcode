@@ -698,3 +698,13 @@
 **Link(s) to work**:
 1. [344. Reverse String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day72/344-Reverse-String.py)
 2. [557. Reverse Words in a String III](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day72/557-Reverse-Words-in-a-String-III.py)
+
+### Day 73: June 22, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: Recently I think it's more important to study from somone's solution than I just solve a problem alone.
+
+**Link(s) to work**:
+1. [278. First Bad Version](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day73/278-First-Bad-Version.py)
+2. [876. Middle of the Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day73/876-Middle-of-the-Linked-List.py)
