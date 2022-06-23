@@ -708,3 +708,12 @@
 **Link(s) to work**:
 1. [278. First Bad Version](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day73/278-First-Bad-Version.py)
 2. [876. Middle of the Linked List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day73/876-Middle-of-the-Linked-List.py)
+
+### Day 74: June 23, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I'm getting used to two-pointers.
+
+**Link(s) to work**:
+1. [19. Remove Nth Node From End of List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day74/19-Remove-Nth-Node-From-End-of-List.py)
