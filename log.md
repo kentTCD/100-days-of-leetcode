@@ -717,3 +717,12 @@
 
 **Link(s) to work**:
 1. [19. Remove Nth Node From End of List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day74/19-Remove-Nth-Node-From-End-of-List.py)
+
+### Day 75: June 24, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I was stuck at using sliding window.
+
+**Link(s) to work**:
+1. [3. Longest Substring Without Repeating Characters](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day75/3-Longest-Substring-Without-Repeating-Characters.py)
