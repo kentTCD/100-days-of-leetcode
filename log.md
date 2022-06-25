@@ -726,3 +726,12 @@
 
 **Link(s) to work**:
 1. [3. Longest Substring Without Repeating Characters](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day75/3-Longest-Substring-Without-Repeating-Characters.py)
+
+### Day 76: June 25, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I was amazed by someone's solution that has never occured to me .
+
+**Link(s) to work**:
+1. [567. Permutation in String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day76/567-Permutation-in-String.py)
