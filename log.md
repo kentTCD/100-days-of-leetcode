@@ -735,3 +735,12 @@
 
 **Link(s) to work**:
 1. [567. Permutation in String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day76/567-Permutation-in-String.py)
+
+### Day 77: June 26, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I had little time but I did.
+
+**Link(s) to work**:
+1. [695. Max Area of Island](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day77/695-Max-Area-of-Island.py)
