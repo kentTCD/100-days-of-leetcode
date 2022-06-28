@@ -744,3 +744,12 @@
 
 **Link(s) to work**:
 1. [695. Max Area of Island](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day77/695-Max-Area-of-Island.py)
+
+### Day 78: June 28, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about backtracking from someone's solution.
+
+**Link(s) to work**:
+1. [77. Combinations](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day78/77-Combinations.py)
