@@ -753,3 +753,12 @@
 
 **Link(s) to work**:
 1. [77. Combinations](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day78/77-Combinations.py)
+
+### Day 79: June 29, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned that backtracking can be used for some permutation problems.
+
+**Link(s) to work**:
+1. [784. Letter Case Permutation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day79/784-Letter-Case-Permutation.py)
