@@ -762,3 +762,12 @@
 
 **Link(s) to work**:
 1. [784. Letter Case Permutation](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day79/784-Letter-Case-Permutation.py)
+
+### Day 80: June 30, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I found an amazig solution someone made and was surprised.
+
+**Link(s) to work**:
+1. [231. Power of Two](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day80/231-Power-of-Two.py)
