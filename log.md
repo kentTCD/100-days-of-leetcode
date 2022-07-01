@@ -771,3 +771,13 @@
 
 **Link(s) to work**:
 1. [231. Power of Two](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day80/231-Power-of-Two.py)
+
+### Day 81: July 1, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I refined my solution that I'd made before.
+
+**Link(s) to work**:
+1. [136. Single Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day81/136-Single-Number.py)
+2. [190. Reverse Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day81/190-Reverse-Bits.py)
