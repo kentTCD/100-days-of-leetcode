@@ -781,3 +781,12 @@
 **Link(s) to work**:
 1. [136. Single Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day81/136-Single-Number.py)
 2. [190. Reverse Bits](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day81/190-Reverse-Bits.py)
+
+### Day 82: July 2, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about DP that I couldn't understand when I encountered a few weeks ago. Finally I was surprised by how beautiful DP is.
+
+**Link(s) to work**:
+1. [198. House Robber](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day82/198-House-Robber.py)
