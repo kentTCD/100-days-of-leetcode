@@ -1,3 +1,5 @@
+# Author:https://github.com/tsuchi-ken
+
 import os
 from datetime import datetime, timedelta
 import sys

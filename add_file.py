@@ -1,3 +1,5 @@
+# Author:https://github.com/tsuchi-ken
+
 ## How to Use
 # on comandline, use this with 2 or 3 arguments
 

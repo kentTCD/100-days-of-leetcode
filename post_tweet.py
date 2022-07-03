@@ -1,3 +1,5 @@
+# Author:https://github.com/tsuchi-ken
+
 import config, re, os
 from requests_oauthlib import OAuth1Session
 
