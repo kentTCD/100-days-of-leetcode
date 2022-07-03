@@ -790,3 +790,12 @@
 
 **Link(s) to work**:
 1. [198. House Robber](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day82/198-House-Robber.py)
+
+### Day 83: July 3, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I did my best to solve a DP-related problme but it was a little bit difficult and I learned from someone's solution.
+
+**Link(s) to work**:
+1. [120. Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day83/120-Triangle.py)
