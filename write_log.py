@@ -24,7 +24,11 @@ def createLinksToWork():
 
 argv = sys.argv
 if len(argv) >= 2:
-    yesterday_flag = True if argv[1] in ['true', 'True', 'TRUE'] else False
+    if argv[1] in ['true', 'True', 'TRUE']:
+        yesterday_flag = True
+    else:
+        print("----------------- Argument is not supported. -----------------")
+        exit()
 else:
     yesterday_flag = False
 
