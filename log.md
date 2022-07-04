@@ -799,3 +799,12 @@
 
 **Link(s) to work**:
 1. [120. Triangle](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day83/120-Triangle.py)
+
+### Day 84: July 4, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I was really amazed by someone's soution. I've never created a solution that is itself a recursive function like that.
+
+**Link(s) to work**:
+1. [617. Merge Two Binary Trees](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day84/617-Merge-Two-Binary-Trees.py)
