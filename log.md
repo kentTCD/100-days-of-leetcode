@@ -808,3 +808,12 @@
 
 **Link(s) to work**:
 1. [617. Merge Two Binary Trees](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day84/617-Merge-Two-Binary-Trees.py)
+
+### Day 85: July 5, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned that thinking minimum is a great way to solve a problem. I mean I should divide a problem into a few pieces.
+
+**Link(s) to work**:
+1. [116. Populating Next Right Pointers in Each Node](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day85/116-Populating-Next-Right-Pointers-in-Each-Node.py)
