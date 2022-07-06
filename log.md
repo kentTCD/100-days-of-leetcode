@@ -817,3 +817,12 @@
 
 **Link(s) to work**:
 1. [116. Populating Next Right Pointers in Each Node](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day85/116-Populating-Next-Right-Pointers-in-Each-Node.py)
+
+### Day 86: July 6, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I'm glad to notice I can use some algorithms such as hashmap, recursion and DP. But I couldn't solve today's problem so I have to find out proper algorithm to use.
+
+**Link(s) to work**:
+1. [542. 01 Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day86/542-01-Matrix.py)
