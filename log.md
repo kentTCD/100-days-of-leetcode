@@ -826,3 +826,12 @@
 
 **Link(s) to work**:
 1. [542. 01 Matrix](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day86/542-01-Matrix.py)
+
+### Day 87: July 7, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about "nonlocal" in Python and was surprised that I didn't know this haha.
+
+**Link(s) to work**:
+1. [733. Flood Fill](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day87/733-Flood-Fill.py)
