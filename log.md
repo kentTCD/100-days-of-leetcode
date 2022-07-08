@@ -835,3 +835,12 @@
 
 **Link(s) to work**:
 1. [733. Flood Fill](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day87/733-Flood-Fill.py)
+
+### Day 88: July 8, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I finally learned the idea of BFS that I was struggling with.
+
+**Link(s) to work**:
+1. [994. Rotting Oranges](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day88/994-Rotting-Oranges.py)
