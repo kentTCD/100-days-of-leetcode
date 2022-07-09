@@ -844,3 +844,12 @@
 
 **Link(s) to work**:
 1. [994. Rotting Oranges](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day88/994-Rotting-Oranges.py)
+
+### Day 89: July 9, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I feel that my coding skills are really improved because I can solve problems that I couldn't a few months ago.
+
+**Link(s) to work**:
+1. [24. Swap Nodes in Pairs](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day89/24-Swap-Nodes-in-Pairs.py)
