@@ -853,3 +853,12 @@
 
 **Link(s) to work**:
 1. [24. Swap Nodes in Pairs](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day89/24-Swap-Nodes-in-Pairs.py)
+
+### Day 90: July 10, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I found a purely simple solution that tells me how to use DP properly.
+
+**Link(s) to work**:
+1. [64. Minimum Path Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day90/64-Minimum-Path-Sum.py)
