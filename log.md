@@ -862,3 +862,13 @@
 
 **Link(s) to work**:
 1. [64. Minimum Path Sum](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day90/64-Minimum-Path-Sum.py)
+
+### Day 91: July 11, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I am homping that I will finish this challenge.
+
+**Link(s) to work**:
+1. [119. Pascal's Triangle II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day91/119-Pascal's-Triangle-II.py)
+2. [543. Diameter of Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day91/543-Diameter-of-Binary-Tree.py)
