@@ -872,3 +872,12 @@
 **Link(s) to work**:
 1. [119. Pascal's Triangle II](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day91/119-Pascal's-Triangle-II.py)
 2. [543. Diameter of Binary Tree](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day91/543-Diameter-of-Binary-Tree.py)
+
+### Day 92: July 12, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about a constant space solution.
+
+**Link(s) to work**:
+1. [73. Set Matrix Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day92/73-Set-Matrix-Zeroes.py)
