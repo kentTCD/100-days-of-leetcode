@@ -881,3 +881,12 @@
 
 **Link(s) to work**:
 1. [73. Set Matrix Zeroes](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day92/73-Set-Matrix-Zeroes.py)
+
+### Day 93: July 13, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I can make a problem easier when I break it down and write it down on a paper.
+
+**Link(s) to work**:
+1. [56. Merge Intervals](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day93/56-Merge-Intervals.py)
