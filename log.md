@@ -890,3 +890,12 @@
 
 **Link(s) to work**:
 1. [56. Merge Intervals](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day93/56-Merge-Intervals.py)
+
+### Day 94: July 14, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I learned about merge sort algorithm for the first time, and I thought I had to study some sort algorithms properly.
+
+**Link(s) to work**:
+1. [148. Sort List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day94/148-Sort-List.py)
