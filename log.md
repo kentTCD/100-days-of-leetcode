@@ -899,3 +899,12 @@
 
 **Link(s) to work**:
 1. [148. Sort List](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day94/148-Sort-List.py)
+
+### Day 95: July 15, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Of course it's good to learn form someone's solution but it's more satisfying to solve a problem on my own.
+
+**Link(s) to work**:
+1. [763. Partition Labels](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day95/763-Partition-Labels.py)
