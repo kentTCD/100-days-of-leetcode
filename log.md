@@ -908,3 +908,13 @@
 
 **Link(s) to work**:
 1. [763. Partition Labels](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day95/763-Partition-Labels.py)
+
+### Day 96: July 16, 2022
+
+**Today's Progress**: I did 2 problems.
+
+**Thoughts**: I can see the goal of this challenge but I can never see the goal of programming.
+
+**Link(s) to work**:
+1. [347. Top K Frequent Elements](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day96/347-Top-K-Frequent-Elements.py)
+2. [394. Decode String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day96/394-Decode-String.py)
