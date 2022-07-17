@@ -918,3 +918,12 @@
 **Link(s) to work**:
 1. [347. Top K Frequent Elements](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day96/347-Top-K-Frequent-Elements.py)
 2. [394. Decode String](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day96/394-Decode-String.py)
+
+### Day 97: July 17, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: I really admire a person who can see a problem from a few angles and change it into a simple and clear one.
+
+**Link(s) to work**:
+1. [647. Palindromic Substrings](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day97/647-Palindromic-Substrings.py)
