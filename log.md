@@ -927,3 +927,12 @@
 
 **Link(s) to work**:
 1. [647. Palindromic Substrings](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day97/647-Palindromic-Substrings.py)
+
+### Day 98: July 18, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Among medium level of leetcode, problems that seem easy often turn to be difficult with time complexity.
+
+**Link(s) to work**:
+1. [287. Find the Duplicate Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day98/287-Find-the-Duplicate-Number.py)
