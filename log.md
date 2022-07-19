@@ -936,3 +936,12 @@
 
 **Link(s) to work**:
 1. [287. Find the Duplicate Number](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day98/287-Find-the-Duplicate-Number.py)
+
+### Day 99: July 19, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Just one more day.
+
+**Link(s) to work**:
+1. [238. Product of Array Except Self](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day99/238-Product-of-Array-Except-Self.py)
