@@ -954,3 +954,12 @@
 
 **Link(s) to work**:
 1. [560. Subarray Sum Equals K](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day100/560-Subarray-Sum-Equals-K.py)
+
+### Day 101: July 21, 2022
+
+**Today's Progress**: I did 1 problem.
+
+**Thoughts**: Just in case, I did another day's challenge.
+
+**Link(s) to work**:
+1. [300. Longest Increasing Subsequence](https://github.com/tsuchi-ken/100-days-of-leetcode/blob/master/codes/Day101/300-Longest-Increasing-Subsequence.py)
